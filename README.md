@@ -15,7 +15,7 @@ Sterile system based on STM32F103C8T microcontroller
 
 - #### Type : Single Layer
 
-- #### Size : 45mm * 45mm
+- #### Size : 40mm * 40mm
 
 - #### Min Trace width : 0.2mm
 
