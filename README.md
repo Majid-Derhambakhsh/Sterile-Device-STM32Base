@@ -1,3 +1,5 @@
+![BANNER](Banner.png)
+
 # Sterile-System
 Sterile system based on STM32F103C8T microcontroller
 
@@ -49,3 +51,5 @@ DC Power Jack | TH Standard | | 1
 ### PCB View
 
 ![PCBVIEW](PCB-PICTURE.png)
+
+#### Developer: Majid Derhambakhsh
