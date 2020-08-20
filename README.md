@@ -1,6 +1,6 @@
 ![BANNER](Banner.png)
 
-# Sterile-System
+# Sterile Device STM32Base
 Sterile system based on STM32F103C8T microcontroller
 
 ### Version : 1.0.0
