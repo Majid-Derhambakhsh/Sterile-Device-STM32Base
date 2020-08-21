@@ -4,6 +4,10 @@
 Sterile system based on STM32F103C8T microcontroller
 - STM8 Version : [Sterile Device STM8Base](https://github.com/Majid-Derhambakhsh/Sterile-Device-STM8Base)  
 
+```diff  
+- Notice : Program Uploading Soon
+```
+
 ### Version : 1.0.0
 
 - #### Type : Open Source ~ Embedded Device.
