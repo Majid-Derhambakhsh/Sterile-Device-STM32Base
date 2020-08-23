@@ -6,6 +6,7 @@ Sterile system based on STM32F103C8T microcontroller
 
 ```diff  
 - Notice : Program Uploading Soon
++ Send an email to me to receive project codes early
 ```
 
 ### Version : 1.0.0
